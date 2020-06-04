@@ -1,9 +1,11 @@
+  
 {
   "name": "confusion",
   "displayName": "confusion",
   "expo": {
+    "sdkVersion":"37.0.0",
     "name": "confusion",
-    "slug": "expo-template-bare",
+    "slug": "confusion",
     "version": "1.0.0",
     "platforms": [
       "ios",
